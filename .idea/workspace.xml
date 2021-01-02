@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bf445896-3dbd-4916-906f-5fb9f225d5fd" name="Default Changelist" comment="" />
+    <list default="true" id="bf445896-3dbd-4916-906f-5fb9f225d5fd" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Themes/Libre/views/blog/category.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/Themes/Libre/views/blog/category.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Themes/Libre/views/partials/header.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/Themes/Libre/views/partials/header.blade.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,7 +23,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/web_honduras_libre" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -188,7 +192,9 @@
       <workItem from="1609167262740" duration="508000" />
       <workItem from="1609168526303" duration="9075000" />
       <workItem from="1609204074500" duration="54971000" />
-      <workItem from="1609371871707" duration="1308000" />
+      <workItem from="1609371871707" duration="1810000" />
+      <workItem from="1609434605839" duration="591000" />
+      <workItem from="1609537511559" duration="1928000" />
     </task>
     <servers />
   </component>
@@ -205,5 +211,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>

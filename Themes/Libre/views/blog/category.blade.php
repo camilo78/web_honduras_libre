@@ -98,8 +98,8 @@
                                 allowfullscreen></iframe>
                     </div>
                     <h3 class="sidebar-title mt-4" data-aos="fade-left">Música en Resitencia</h3>
-                    <div id="cp_widget_5294b4e8-eb79-4382-9a3e-33de7543120c" style="height: 183px;"
-                         data-aos="fade-left">...
+                    <div id="cp_widget_5294b4e8-eb79-4382-9a3e-33de7543120c"
+                         data-aos="fade-left">
                     </div>
 
 
